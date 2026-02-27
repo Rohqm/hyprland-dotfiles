@@ -1,0 +1,28 @@
+# editors & ide
+Code - OSS/
+PythonCodes/
+
+# browsers & user data
+chromium/
+
+# system & machine specific
+dconf/
+pulse/
+wireshark/
+xfce4/
+Thunar/
+
+# backups
+hypr.bak/
+hypr_backup/
+
+# cache & runtime
+.cache/
+*.log
+*.pid
+*.sock
+
+# secrets
+*.key
+*.pem
+*.crt
